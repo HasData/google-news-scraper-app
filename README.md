@@ -35,9 +35,7 @@ Replace `app.py` with your filename if different.
 
 ## How It Works
 
-Enter your API key and choose your query parameters.
-[![Sign up](media/sign-up.gif)](https://hasdata.com/)
-You can select one of the predefined topics or provide a custom TopicToken. You can also filter by country, language, and sort order. Press **Scrape News** to fetch the results.
+Enter your API key and choose your query parameters. You can select one of the predefined topics or provide a custom TopicToken. You can also filter by country, language, and sort order. Press **Scrape News** to fetch the results.
 
 Each news item includes:
 
@@ -65,3 +63,4 @@ These examples are for **educational purposes** only. Learn more about [the lega
 * [Join the community on Discord](https://hasdata.com/join-discord)
 
 * [Star this repo if helpful ⭐](#)
+
