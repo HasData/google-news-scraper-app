@@ -12,7 +12,7 @@ It’s useful for researchers, analysts, developers, or anyone who needs organiz
 ## 🚀 What This App Does
 
 You provide your HasData API key, select a topic or use a custom TopicToken, optionally fill section, publication, or story tokens, and define filters for country, language, and sort order.
-[![Preview](media/news.png)](https://hasdata.com/)
+[![Preview](media/news.png)](https://news-scraper-hasdata.streamlit.app/)
 The app sends your query to HasData’s API, fetches the results, and shows them in a clean table with all relevant fields like title, link, source, authors, thumbnails, and stories JSON.
 
 You can download the results as **JSON** or **CSV** for further analysis or integration into workflows.
@@ -63,4 +63,5 @@ These examples are for **educational purposes** only. Learn more about [the lega
 * [Scraping Google News: The 2025 Python Guide](https://hasdata.com/blog/web-scraping-google-news)
 * [HasData Google News API](https://hasdata.com/google-news-api)
 * [Join the community on Discord](https://hasdata.com/join-discord)
+
 * [Star this repo if helpful ⭐](#)
