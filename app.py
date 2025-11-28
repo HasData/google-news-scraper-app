@@ -97,7 +97,7 @@ rows = st.session_state.rows
 
 if rows:
     df = pd.DataFrame(rows)
-    st.dataframe(df, use_container_width=True)
+    st.dataframe(df, width='stretch')
     json_data = json.dumps(rows, ensure_ascii=False, indent=2)
     csv_buffer = io.StringIO()
     df.to_csv(csv_buffer, index=False)
@@ -109,3 +109,4 @@ if rows:
         st.download_button("Download CSV", data=csv_buffer.getvalue(), file_name="news.csv", mime="text/csv")
 else:
     st.info("Enter parameters and press **Scrape News**.")
+
