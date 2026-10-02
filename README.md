@@ -2,7 +2,7 @@
 
 # Google News Scraper with HasData API
 
-[![HasData\_banner](media/banner.png)](https://hasdata.com/)
+[![HasData\_banner](media/banner.png)](https://hasdata.com/?utm_source=github&utm_medium=syndication&utm_campaign=web-scraping-google-news&utm_content=google-news-scraper-app-readme)
 
 This Streamlit app lets you scrape **Google News** directly using the **HasData Google News API**. 
 You can choose a topic, set search keywords, filter by country, language, or sort order, and fetch structured news data. The results can be previewed in the app and downloaded as JSON or CSV.
@@ -54,13 +54,13 @@ The exported files include all displayed fields, making it easy to feed the data
 
 ## Disclaimer
 
-These examples are for **educational purposes** only. Learn more about [the legality of web scraping](https://hasdata.com/blog/is-web-scraping-legal).
+These examples are for **educational purposes** only. Learn more about [the legality of web scraping](https://hasdata.com/blog/is-web-scraping-legal?utm_source=github&utm_medium=syndication&utm_campaign=web-scraping-google-news&utm_content=google-news-scraper-app-readme).
 
 ## 📎 More Resources
 
-* [Scraping Google News: The 2025 Python Guide](https://hasdata.com/blog/web-scraping-google-news)
-* [HasData Google News API](https://hasdata.com/google-news-api)
-* [Join the community on Discord](https://hasdata.com/join-discord)
+* [Scraping Google News: The 2025 Python Guide](https://hasdata.com/blog/web-scraping-google-news?utm_source=github&utm_medium=syndication&utm_campaign=web-scraping-google-news&utm_content=google-news-scraper-app-readme)
+* [HasData Google News API](https://hasdata.com/google-news-api?utm_source=github&utm_medium=syndication&utm_campaign=web-scraping-google-news&utm_content=google-news-scraper-app-readme)
+* [Join the community on Discord](https://hasdata.com/join-discord?utm_source=github&utm_medium=syndication&utm_campaign=web-scraping-google-news&utm_content=google-news-scraper-app-readme)
 
 * [Star this repo if helpful ⭐](#)
 
